@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @emmanuel-olateju
-- 👀 I’m interested in embedded systems, signals-processing, machine-learning, AI and deep-learning architectures, robotics for rehabilitation and brain-computer-interfacing
-- 🌱 I’m currently learning the use of pytorch in developing variants of CNNs and other neural network architectures
-- 💞️ I’m looking to collaborate on AI, robotics, brain-computer-interfacing projects.
+- 👀 I’m a researh assistant with focus on decoding of physiological data using Deep/Machine-learning architectures and development of rehabilitation robots/control systems
+- 👀 In my spare time, I am a music student, a full-stack web developer and a reader.
+- 🌱 My current projects include detection and seperation of schizophrenia risk patients using EEG-Mosmatch Negativity-measures, DL/ML techniques
+-    and the second being the use of ML/DL methods in estimation of upper-limb stroke rehabilitation from EEG signals.
+- 💞️ I’m looking to collaborate Machine-learning and Artificial-Intelligence projects utilizing human physiological data.
 - 📫 How to reach me: whatsapp:+2347035811977, linkedin:https://www.linkedin.com/in/emmanuel-olateju-aeon/, email:olatejuemmanuel@gmail.com,
 
 <!---
