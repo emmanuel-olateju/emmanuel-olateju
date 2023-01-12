@@ -4,7 +4,7 @@
 - 🌱 My current projects include detection and seperation of schizophrenia risk patients using EEG-Mismatch-Negativity-measures, DL/ML techniques
 - 🌱 and the second being the use of ML/DL methods in estimation of upper-limb stroke rehabilitation from EEG signals.
 - 🌱 In the past, I have been an embedded systems developer and an analog electronics enthusiast, fields in which I completed lots of projects and achieved significant feats.
-- 💞️ I’m looking to collaborate Machine-learning and Artificial-Intelligence projects utilizing human physiological data.
+- 💞️ I’m looking to collaborate on Machine-learning and Artificial-Intelligence projects utilizing human physiological data and other forms of data(financial).
 - 📫 How to reach me: whatsapp:+2347035811977, linkedin:https://www.linkedin.com/in/emmanuel-olateju-aeon/, email:olatejuemmanuel@gmail.com,
 
 <!---
