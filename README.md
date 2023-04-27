@@ -1,17 +1,16 @@
-- 👋 Hi, I’m @emmanuel-olateju
-- 👀 I’m a student and a researh assistant with focus on decoding of physiological data using Deep/Machine-learning architectures and development of rehabilitation robots/control systems
-- 👀 My journey as a student of electronic/electrical engineering has seen me develop experstise in several areas, theoreticall and practically
+- 👋 Hi, I'm Emmanuel Olateju, a student and research assistant with expertise in decoding physiological data using deep/machine-learning architectures and developing rehabilitation robots/control & instrumentation systems.
+- 👀 Throughout my academic journey in electronic/electrical engineering, I have acquired expertise in several areas.
   - In my freshman, sophomore and middle years, I acquired skills in areas of embedded systems, analog electronics and FPGA based development
   - My penultimate year involved developing skills in areas of brain-computer-interacing, signal-processing, machine-learning, computational-neuroscience and rehabilitation robotics
   - My final year made sure that all of these acquired skills are continously honed and refined in bith the theoretical and practical sense by applying them more actively in research and development.
-- 🌱 Here are some of my recent research works and projects. All of my research works is done under a research laboratory within my faculty. 
+- 🌱 I have worked on several research projects under a research laboratory within my faculty which include: 
   - Mismatch Negativity and EEG measures for schizophrenia prognosis
   - (PULSR) Platform for Upper Limb Stroe Rehabilitation
   - CNN and EEG Engagement-Indexer for During Session Upper Extremity Rehabilitation 
   - Development of a EEG controlled hand-orthosis 
   - Development of an EEG motor-imagery based grasp,release classifier
   - SSVEP based keypad
-- 🌱 In the hardware world, I developed some projects before my penultimate year. Some of which are 
+- 🌱 In addition, I have developed several hardware projects which include the following:
   - PPG based glucose indexer
   - Mini audio amplifier
   - Small signal amplifier
@@ -23,8 +22,8 @@
   - Heartbeat counter using ESP8266 and Blynk app.
   - Water pumping control system using PIC microcontroller.
   - Development of automatic transfer switch system for generators.
-- 💞️ I’m looking towards participating in research that contribute to quality of hman life through puse of physiological data and development of rehabilitation robots and other kind of robots.
-- 📫 How to reach me: whatsapp:+2347035811977, linkedin:https://www.linkedin.com/in/emmanuel-olateju-aeon/, email:olatejuemmanuel@gmail.com,
+- 💞️ I am looking forward to participating in research and projects that contributes to the quality of human life through the use of physiological data and development of rehabilitation robots and other kinds of robots.
+- 📫 Please feel free to reach out to me via WhatsApp at +2347035811977, LinkedIn at https://www.linkedin.com/in/emmanuel-olateju-aeon/, or email at olatejuemmanuel@gmail.com. or eoolateju@student.oauife.edu.ng
 
 <!---
 emmanuel-olateju/emmanuel-olateju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
