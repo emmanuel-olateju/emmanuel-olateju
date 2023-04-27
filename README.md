@@ -7,11 +7,23 @@
 - 🌱 Here are some of my recent research works and projects. All of my research works is done under a research laboratory within my faculty. 
   - Mismatch Negativity and EEG measures for schizophrenia prognosis
   - (PULSR) Platform for Upper Limb Stroe Rehabilitation
-  - CNN and EEG Engagement-Indexer for During Session Upper Extremity Rehabilitation  
+  - CNN and EEG Engagement-Indexer for During Session Upper Extremity Rehabilitation 
+  - Development of a EEG controlled hand-orthosis 
   - Development of an EEG motor-imagery based grasp,release classifier
   - SSVEP based keypad
-- 🌱 In the past, I have been an embedded systems developer and an analog electronics enthusiast, fields in which I completed lots of projects and achieved significant feats.
-- 💞️ I’m looking to collaborate on Machine-learning and Artificial-Intelligence projects utilizing human physiological data and other forms of data(financial).
+- 🌱 In the hardware world, I developed some projects before my penultimate year. Some of which are 
+  - PPG based glucose indexer
+  - Mini audio amplifier
+  - Small signal amplifier
+  - FPGA based traffick controller
+  - FPGA based analog voltage data acquisition system
+  - FPGA based timer&stopwatch
+  - FPGA based arithmetic logical unit
+  - Password/fingerprint based security system with voice feedback using Arduino.
+  - Heartbeat counter using ESP8266 and Blynk app.
+  - Water pumping control system using PIC microcontroller.
+  - Development of automatic transfer switch system for generators.
+- 💞️ I’m looking towards participating in research that contribute to quality of hman life through puse of physiological data and development of rehabilitation robots and other kind of robots.
 - 📫 How to reach me: whatsapp:+2347035811977, linkedin:https://www.linkedin.com/in/emmanuel-olateju-aeon/, email:olatejuemmanuel@gmail.com,
 
 <!---
