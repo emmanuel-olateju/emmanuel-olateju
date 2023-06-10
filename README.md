@@ -2,7 +2,7 @@
 - 👀 Throughout my academic journey in electronic/electrical engineering, I have acquired expertise in several areas.
   - In my freshman, sophomore and middle years, I acquired skills in areas of embedded systems, analog electronics and FPGA based development
   - My penultimate year involved developing skills in areas of brain-computer-interacing, signal-processing, machine-learning, computational-neuroscience and rehabilitation robotics
-  - My final year made sure that all of these acquired skills are continously honed and refined in bith the theoretical and practical sense by applying them more actively in research and development.
+  - My final year made sure that all of these acquired skills are continously honed and refined in both the theoretical and practical sense by applying them more actively in research and development.
 - 🌱 I have worked on several research projects under a research laboratory within my faculty which include: 
   - Mismatch Negativity and EEG measures for schizophrenia prognosis
   - (PULSR) Platform for Upper Limb Stroe Rehabilitation
