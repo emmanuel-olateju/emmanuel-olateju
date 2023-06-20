@@ -1,5 +1,4 @@
-- 👋 Hi, I'm Emmanuel Olateju, a student and research assistant with expertise in decoding physiological data using deep/machine-learning architectures and developing rehabilitation robots/control & instrumentation systems.
-  I am also a DevOps methodology enthusiast who in my sparetime practice with several DevOps technologies and have developed a little experience through freelancing. DevOps practices has enabled me to develop certain level of skills with some technologies which include:
+- 👋 Hi, I'm Emmanuel Olateju, a student and research assistant with expertise in decoding physiological data using deep/machine-learning architectures and developing rehabilitation robots/control & instrumentation systems. I am also a DevOps methodology enthusiast in my sparetime and have practiced with several DevOps technologies while also developing a little experience through freelancing. Some technologies I picked up from DevOps practices include:
   - Scripting & Programming: Bash, Python, C++
   - Cloud: DigitalOcean, AWS, Azure
   - Containerization & Orchestration: Docker, Kubernetes
