@@ -1,4 +1,10 @@
 - 👋 Hi, I'm Emmanuel Olateju, a student and research assistant with expertise in decoding physiological data using deep/machine-learning architectures and developing rehabilitation robots/control & instrumentation systems.
+  I am also a DevOps methodology enthusiast who in my sparetime practice with several DevOps technologies and have developed a little experience through freelancing. DevOps practices has enabled me to develop certain level of skills with some technologies which include:
+  - Scripting & Programming: Bash, Python, C++
+  - Cloud: DigitalOcean, AWS, Azure
+  - Containerization & Orchestration: Docker, Kubernetes
+  - CI/CD: Jenkins, Gitlab CI/CD
+  - IaC: Terraform
 - 👀 Throughout my academic journey in electronic/electrical engineering, I have acquired expertise in several areas.
   - In my freshman, sophomore and middle years, I acquired skills in areas of embedded systems, analog electronics and FPGA based development
   - My penultimate year involved developing skills in areas of brain-computer-interacing, signal-processing, machine-learning, computational-neuroscience and rehabilitation robotics
