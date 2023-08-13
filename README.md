@@ -6,7 +6,7 @@
   - Computational Medicine
   - Computational Neuroscience
   - Brain Computer Interfacing
-- As such you will find me on projects that revolve around rehabilitation robotics, learning methods for health diagnostics/prognostics, human computer interaction and neuroscience research. 
+- As such you will find me on projects that involve rehabilitation robots, learning methods for health diagnostics/prognostics, human computer interaction and neuroscience research. 
 - 👀 While being a student, a research assistant and a time to time freelancer, I have tried out various things and picked up various skillset in areas of machine-learning, deep-learning, embedded systems development, software development and DevOps practices. A bit of specifics on a few of the tools I have used:
   - Machine/Deep Learning: ...., pandas, seaborn, tableau, scikit, xgboost, CATBoost, tensorflow, pytorch, AutoML, ....... 
   - Embedded systems: ....., Embedded C, atmel, PIC, STM32, Raspberry-Pi, DE10Lite FPGA, NexysA7 FPGA, .......
