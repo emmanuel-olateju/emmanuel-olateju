@@ -1,4 +1,4 @@
-👋 Hi, I'm Emmanuel Olateju, a fraduate of Electronic and Electrical Engineering student from Obafemi Awolowo University and a research assistant at the Applied Artificial Intelligence and Robotics Research Laboratory (A2IR2). Passionate about innovating AI and robotic solutions for rehabilitation, psychiatric diagnosis, and neuroscience research, I thrive at the intersection of technology and healthcare.
+👋 Hi, I'm Emmanuel Olateju, a graduate of Electronic and Electrical Engineering student from Obafemi Awolowo University and a research assistant at the Applied Artificial Intelligence and Robotics Research Laboratory (A2IR2). Passionate about innovating AI and robotic solutions for rehabilitation, psychiatric diagnosis, and neuroscience research, I thrive at the intersection of technology and healthcare.
 
 🚀 Core Competencies:
 - Machine Learning models and algorithms
