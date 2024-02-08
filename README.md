@@ -10,7 +10,7 @@
 - Software Development (Desktop & Web)
 
 🔧 Technical Skills:
-- Programming Languages: Python, C, C++, MATLAB
+- Programming Languages: Python, C, C#, C++, MATLAB
 - ML Frameworks: PyTorch, TensorFlow
 - Embedded Tools: STM32, Arduino, Raspberry Pi
 - Cloud Platforms: AWS IoT, Azure IoT
