@@ -14,7 +14,7 @@
 - ML Frameworks: PyTorch, TensorFlow
 - Embedded Tools: STM32, Arduino, Raspberry Pi
 - Cloud Platforms: AWS IoT, Azure IoT
-- DevOps Tools: Git, Docker, Kubernetes
+- DevOps Tools: Git, Docker
 
 🛠️ Experience Highlights:
 - Created EEG datasets and models for schizophrenia diagnosis
